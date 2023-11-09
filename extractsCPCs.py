@@ -1,4 +1,4 @@
-# Hiteshwar Singh(115076518), Praveen Raj(114999920), Shwetali Rane(115320783), Ritvik Patil(115131064) 
+
 
 import json
 from team_code import *
