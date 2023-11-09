@@ -1,4 +1,4 @@
-# Hiteshwar Singh(115076518), Praveen Raj(114999920), Shwetali Rane(115320783), Ritvik Patil(115131064) 
+
 import os, numpy as np, scipy as sp, scipy.io
 # Find the folders with data files.
 def find_data_folders(root_folder):
